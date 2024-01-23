@@ -1,0 +1,15 @@
+{
+  "name": "finalproject_nodejs",
+  "version": "1.0.0",
+  "description": "Final Project (Blogging Website)  of the Node Js and MongoDB course ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fatma Ibrahim",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "mongoose": "^8.1.0"
+  }
+}
